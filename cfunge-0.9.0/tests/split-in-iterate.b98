@@ -1,5 +1,0 @@
-7#vkt @
-  @
-
-This program test splitting in iterate. Should not crash or make valgrind complain.
-The issue was found using fuzz testing.

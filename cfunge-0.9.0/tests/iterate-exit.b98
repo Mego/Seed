@@ -1,5 +1,0 @@
-#vt zzzzzzzzzzz 'C,a,@
- > 5k@'W,a,q
-
-This should print "C" (without quotes) followed by a newline.
-Tests that we don't crash or continue after iterating over @.
